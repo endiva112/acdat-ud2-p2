@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Main {
+    //URL del proyecto en GitHub -> https://github.com/endiva112/acdat-ud2-p2/tree/main
     private static Scanner sc = new Scanner(System.in);
     private static File rutaActual;
     /**
